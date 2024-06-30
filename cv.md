@@ -33,7 +33,9 @@ Some basic examples are:
 ## experience
 dont have work experience
 ## education
-- ** ** 10 school classes
+-  10 school classes
 - I’m currently finishing my 3rd year of college
 - children's IT courses
-- tattoo courses ** **
+- tattoo courses 
+## English 
+- level B1-B2
