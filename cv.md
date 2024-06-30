@@ -32,3 +32,8 @@ Some basic examples are:
 ```
 ## experience
 dont have work experience
+## education
+- ** ** 10 school classes
+- I’m currently finishing my 3rd year of college
+- children's IT courses
+- tattoo courses ** **
